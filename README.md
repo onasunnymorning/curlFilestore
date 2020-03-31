@@ -1,2 +1,2 @@
 # curlFilestrore
-POST a file to this service and save to cloud storage
+Simple REST webserivice that lets' you POST a file and store it somwhere in the cloud
